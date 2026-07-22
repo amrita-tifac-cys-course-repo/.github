@@ -3,7 +3,8 @@
 </p>
 
 ## Moved from Re-bin-22ucys
+### UG: B.Tech CSE (CYS)
 |   Program |     Batch     |  Course Code  |          Course Name     |      Course Mentor | 
 |:---------:|:-------------:|:-------------:|:------------------------:|:------------------:|
-|  B.Tech   |   2022 - VII  |   20CYS404     | [Android Application Development](https://github.com/amrita-tifac-cys-course-repo/OD2526-20CYS404-Android-AppDev) | Mr. Sibi S |
-|  B.Tech   |   2022 - III  |   20CYS205     | [Modern Cryptography](https://github.com/amrita-tifac-cys-course-repo/OD2324-20CYS205-Modern-Cryptography) | Dr. Lakshmy K V |
+|  B.Tech   |   2022 - VII  |   20CYS404     | [Android Application Development](https://github.com/amrita-tifac-cys-course-repo/UG_OD2526-20CYS404-Android-AppDev) | Mr. Sibi S |
+|  B.Tech   |   2022 - III  |   20CYS205     | [Modern Cryptography](https://github.com/amrita-tifac-cys-course-repo/UG_OD2324-20CYS205-Modern-Cryptography) | Dr. Sethumadhavan M |
