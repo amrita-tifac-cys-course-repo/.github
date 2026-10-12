@@ -2,6 +2,12 @@
     <img src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/.github/blob/main/profile/img/AVV_CYS_Logo.png" alt ="Amrita TIFAC" width="700" />
 </p>
 
+## Upcoming Semester Course Repositories
+### UG: B.Tech CSE (CYS)
+|   Program |     Batch     |  Course Code  |          Course Name     |      Course Mentor | 
+|:---------:|:-------------:|:-------------:|:------------------------:|:------------------:|
+|  B.Tech   |   2024 - VI   |  24CYS312      | [Principles of Programming Languages](https://github.com/amrita-tifac-cys-course-repo/UG_EV2627-24CYS312-PoPL) | Dr. Rohini M & Mr. Ramaguru Radhakrishnan |
+
 ## Current Semester Course Repositories
 ### PG: M.Tech CYS
 
